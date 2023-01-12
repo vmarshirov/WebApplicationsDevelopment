@@ -2,6 +2,8 @@
 
 ## https://github.com/vmarshirov/django010Project
 
+## https://vmarshirov.github.io/g06u28/requirements.html
+
 ### Ссылка на текущие практические, семинары и экзамены (Марширов)
 
 #### Cсылки на занятия 12 января
