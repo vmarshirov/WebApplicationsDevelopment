@@ -1,9 +1,9 @@
 ## Начальная страница дисциплины "Разработка web-приложний"
 
 
-## Подсказки и примеры: https://github.com/vmarshirov/django010Project
+### Подсказки и примеры: https://github.com/vmarshirov/django010Project
 
-## Требования к заданию 1: https://vmarshirov.github.io/g06u28/requirements.html
+### Требования к заданию 1: https://vmarshirov.github.io/g06u28/requirements.html
 
 ### Ссылка на текущие практические, семинары и экзамены (Марширов)
 
