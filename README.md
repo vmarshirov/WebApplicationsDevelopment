@@ -1,7 +1,7 @@
 ## Начальная страница дисциплины "Разработка web-приложний"
 
 
-### Рабочая ведомость, сжатые архивы и др. на: https://disk.yandex.ru/d/nWsJg7428doNQA
+### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/nWsJg7428doNQA
 
 ### Подсказки и примеры по Django: https://github.com/vmarshirov/django010Project
 
