@@ -9,6 +9,7 @@
 
 #### Требования к заданию 1: https://vmarshirov.github.io/WebApplicationsDevelopment/task1.html
 
+#### Требования к заданию 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
 
 #### Рекомендации
 
