@@ -1,17 +1,17 @@
-## Начальная страница дисциплины "Разработка web-приложний"
+### Начальная страница дисциплины "Разработка web-приложний"
 
 
-### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/nWsJg7428doNQA
+#### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/nWsJg7428doNQA
 
-### Подсказки и примеры по Django: https://github.com/vmarshirov/django010Project
+#### Подсказки и примеры по Django: https://github.com/vmarshirov/django010Project
 
-### Другие подсказки и рекомендации: https://vmarshirov.github.io/index/ 
+#### Другие подсказки и рекомендации: https://vmarshirov.github.io/index/ 
 
-### Требования к заданию 1: https://vmarshirov.github.io/WebApplicationsDevelopment/task1.html
+#### Требования к заданию 1: https://vmarshirov.github.io/WebApplicationsDevelopment/task1.html
 
-### Требования к заданию 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
+#### Требования к заданию 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
 
-### Рекомендации
+#### Рекомендации
 
 1.  Обновить Python в соответствии с рекомендациями в https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/files
 
@@ -20,9 +20,9 @@
 Если не удастся установить версию  Professional -   установить Community    
 
 
-###  Ссылка на текущие лекции, практические, семинары, экзамены и пересдачи (Марширов)
+####  Ссылка на текущие лекции, практические, семинары, экзамены и пересдачи (Марширов)
 
-### Cсылки на занятия 06 апреля
+#### Cсылки на занятия 06 апреля
 Разработка web-приложений. 11:10 - 14.20 
 
 Разработка web-приложений. 14:40 - 17.40
