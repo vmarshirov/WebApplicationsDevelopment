@@ -18,7 +18,7 @@
 7. Все страницы сайта объединить единой системой навигации
 8. Сконфигурировать панель администратора для управления содержанием сайта
 
-Видео и пример на https://disk.yandex.ru/d/vvxdW1FATS6PNQ
+Видео и пример на https://disk.yandex.ru/d/vvxdW1FATS6PNQ  и на https://github.com/vmarshirov/orm_site_prj
 
 
 
