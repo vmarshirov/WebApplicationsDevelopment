@@ -12,13 +12,18 @@
 - задания из    файла algorithms.txt  в соответствии с файлом  tasks_numbers.pdf
 - или предложить  и решить другую оригинальную задачу, предварительное  согласование с преподавателем обязательно  
 
+Видео  для приложения 1 см. на https://disk.yandex.ru/d/TRhHwa2ELPBOHQ и затем на https://disk.yandex.ru/d/MF48AI2PdxeSQw
+
+Исходный код для приложния 1 на https://github.com/vmarshirov/orm_abc_prj
+
+
 
 #### Приложение 2. Переконфигурировать ранее созданный сайт с условием содержания  уникального контента каждой страницы в базе данных
 
 7. Все страницы сайта объединить единой системой навигации
 8. Сконфигурировать панель администратора для управления содержанием сайта
 
-Видео и пример на https://disk.yandex.ru/d/vvxdW1FATS6PNQ  и на https://github.com/vmarshirov/orm_site_prj
+Видео и пример для приложения 2 на https://disk.yandex.ru/d/vvxdW1FATS6PNQ  и на https://github.com/vmarshirov/orm_site_prj
 
 
 
