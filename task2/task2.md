@@ -23,7 +23,7 @@
 7. Все страницы сайта объединить единой системой навигации
 8. Сконфигурировать панель администратора для управления содержанием сайта
 
-Видео и пример для приложения 2 на https://disk.yandex.ru/d/vvxdW1FATS6PNQ  и на https://github.com/vmarshirov/orm_site_prj
+Видео и пример кода для приложения 2 на https://disk.yandex.ru/d/vvxdW1FATS6PNQ  и на https://github.com/vmarshirov/orm_site_prj
 
 
 
