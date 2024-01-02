@@ -1,11 +1,10 @@
 ### Начальная страница дисциплины "Разработка web-приложний"
 
 
-#### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/nWsJg7428doNQA
+#### Рабочая ведомость, видео, сжатые архивы и др. на: [https://disk.yandex.ru/d/nWsJg7428doNQA
 
 #### Подсказки и примеры по Django: https://github.com/vmarshirov/django010Project
 
-#### Другие подсказки и рекомендации: https://vmarshirov.github.io/index/ 
 
 #### Требования к заданию 1: https://vmarshirov.github.io/WebApplicationsDevelopment/task1.html
 
