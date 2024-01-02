@@ -11,27 +11,8 @@
 
 #### Требования к заданию 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
 
-#### Рекомендации
-
-1.  Обновить Python в соответствии с рекомендациями в https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/files
-
-2.  Установить PyCharm  (среда разработки ПО). См. https://www.jetbrains.com/ru-ru/community/education/#students
-и см.  https://www.jetbrains.com/pycharm/download.  При регистрации указывать электронку Вышки (в процессе установки на электронку Вышки приходят 3 письма с указаниями). 
-Если не удастся установить версию  Professional -   установить Community    
-
 
 ####  Ссылка на текущие лекции, практические, семинары, экзамены и пересдачи (Марширов)
-
-#### Cсылки на экзамены 22 июня
-
-
-Разработка web-приложений. 11:10-12:30 - переносится на 14:40, 18:10 
-
-Разработка web-приложений. 14:40-16:00;    https://telemost.yandex.ru/j/70281470260253
-Разработка web-приложений. 18:10-19:30;    https://telemost.yandex.ru/j/70281470260253
+https://telemost.yandex.ru/j/06923641811146
 
 Ссылки могут меняться при каждом новом сеансе и при разрыве связи. Для надежного обновления страницы: CTRL+F5
-
-
-#### Если возникают проблемы обращаться: 
-vmarshirov@hse.ru;  Telegram, Viber, Phone +79081605316
