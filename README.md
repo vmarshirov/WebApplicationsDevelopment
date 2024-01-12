@@ -3,15 +3,14 @@
 
 ####  Ссылка на текущие лекции, практические, семинары, экзамены и пересдачи (Марширов)
 
-https://telemost.yandex.ru/j/83495624634783
+https://disk.yandex.ru/d/mAW9md4O6LWTzQ
 
 
 Ссылка может  меняться при каждом новом сеансе и при разрыве связи. Для надежного обновления страницы: CTRL+F5
 
-#### Рабочая ведомость, видео, сжатые архивы и др. на: [https://disk.yandex.ru/d/nWsJg7428doNQA
+#### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/mAW9md4O6LWTzQ
 
 #### Подсказки и примеры по Django: https://github.com/vmarshirov/django010Project
-
 
 #### Требования к заданию 1: https://vmarshirov.github.io/WebApplicationsDevelopment/task1.html
 
