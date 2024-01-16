@@ -6,9 +6,9 @@ https://telemost.yandex.ru/j/64891331250902
 
 Ссылка может  меняться при каждом новом сеансе и при разрыве связи. Для надежного обновления страницы: CTRL+F5
 
-#### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/mAW9md4O6LWTzQ
-
 #### Подсказки и примеры по Django: https://github.com/vmarshirov/django010Project
+
+#### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/mAW9md4O6LWTzQ
 
 #### Требования к заданию 1: https://vmarshirov.github.io/WebApplicationsDevelopment/task1.html
 
