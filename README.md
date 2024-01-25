@@ -20,7 +20,7 @@ https://telemost.yandex.ru/j/71239289902469
 
 #### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/mAW9md4O6LWTzQ
 
-#### Требования к заданию 1: https://vmarshirov.github.io/WebApplicationsDevelopment/task1.html
+#### Требования к заданию 1: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task1
 
 #### Требования к заданию 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
 
