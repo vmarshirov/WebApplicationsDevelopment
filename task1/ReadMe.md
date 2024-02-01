@@ -10,7 +10,7 @@
 6.	Навигацию (раздел 1, раздел 2, к началу ) внутри страницы с использование закладок;
 7.	Фрагменты, содержащие списки нумерованные, 	не нумерованные,  вложенные
 8.	Изображения объектов или субъектов с соответствующими пояснениями и комментариями;
-9.	Страницу для решения и представления алгоритмической  задачи с использованием HttpResponse см. https://disk.yandex.ru/d/mAW9md4O6LWTzQ и https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt
+9.	Страницу для решения и представления алгоритмической  задачи с использованием HttpResponse см. 1. https://disk.yandex.ru/d/mAW9md4O6LWTzQ -  номера задач и 2. https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt - содержание задач 
 10.	Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt
 ####	Cайт также должно содержать:
 11.	Фрагмент с работающе формой для отправки  на удаленный сервер личных контактных данных  (фамилия, имя, группа, мобильный телефон, электронка, дата отправки сообщения);
