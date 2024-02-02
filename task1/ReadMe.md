@@ -11,7 +11,7 @@
 7.	Фрагменты, содержащие списки нумерованные, 	не нумерованные,  вложенные
 8.	Изображения объектов или субъектов с соответствующими пояснениями и комментариями;
 9.	Страницу для решения и представления алгоритмической  задачи с использованием HttpResponse см.
-    <br>https://disk.yandex.ru/d/mAW9md4O6LWTzQ -  номер задачb
+    <br>https://disk.yandex.ru/d/mAW9md4O6LWTzQ -  номер задачи
     <br>https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt - содержание задачи по ее номеру 
 12.	Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt
 ####	Cайт также должно содержать:
