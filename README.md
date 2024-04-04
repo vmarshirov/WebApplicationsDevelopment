@@ -15,8 +15,8 @@ https://telemost.yandex.ru/j/38199685084460
 
 #### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/mAW9md4O6LWTzQ
 
-#### Требования к заданию 1: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task1
+#### Требования к контрольной 1: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task1
 
-#### Требования к заданию 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
+#### Требования к контрольной 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
 
 
