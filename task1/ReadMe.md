@@ -10,7 +10,7 @@
 6.	Фрагменты, содержащие списки нумерованные, 	не нумерованные,  вложенные
 7.	Изображения объектов или субъектов с соответствующими пояснениями и комментариями;
 8.	Страницу для решения и представления алгоритмической  задачи см.
-    <br>https://disk.yandex.ru/d/mAW9md4O6LWTzQ -  номер задачи
+    <br>https://disk.yandex.ru/d/-8T0TPDprrAQNA -  номер задачи
     <br>https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt - содержание задачи по ее номеру 
 9.	Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt
 ####	Cайт также должно содержать:
