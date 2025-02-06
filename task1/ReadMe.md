@@ -13,7 +13,7 @@
     <br>https://disk.yandex.ru/d/-8T0TPDprrAQNA -  номер задачи
     <br>https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt - содержание задачи по ее номеру 
 9.	Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt
-####	Cайт также должно содержать:
+
 
 #### Даты  защита контрольной работы 1: <br> 2025-03-06 - группы 3, 4; <br> 2025-03-13 группы 1,2 и 5, 6 <br>Можно досрочно
 #### Защита с опозданием - минус 2 балла за контрольную
