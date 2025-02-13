@@ -11,7 +11,10 @@
 7.	Изображения объектов или субъектов с соответствующими пояснениями и комментариями;
 8.	Страницу для решения и представления алгоритмической  задачи см.
     <br>https://disk.yandex.ru/d/-8T0TPDprrAQNA -  номер задачи
-    <br>https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt - содержание задачи по ее номеру 
+    <br>https://github.com/evshadrina/WebApplications_2025 - содержание задачи по ее номеру
+ 	<br><br>Страницу для решения и представления алгоритмической  задачи (не обязаательно, но дается или вычитается один балл) см.
+    <br>https://disk.yandex.ru/d/-8T0TPDprrAQNA -  номер задачи
+    <br>https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt - содержание задачи по ее номеру   
 9.	Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt
 
 
