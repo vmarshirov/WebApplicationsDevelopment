@@ -15,7 +15,7 @@
  	<br><br>Страницу для решения и представления алгоритмической  задачи (не обязаательно, но дается или вычитается один балл) см.
     <br>https://disk.yandex.ru/d/-8T0TPDprrAQNA -  номер задачи
     <br>https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt - содержание задачи по ее номеру   
-9.	Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt
+9.	Страницу о образовательной программе с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt
 
 
 #### Даты  защита контрольной работы 1: <br> 2025-03-06 - группы 3, 4; <br> 2025-03-13 группы 1,2 и 5, 6 <br>Можно досрочно
