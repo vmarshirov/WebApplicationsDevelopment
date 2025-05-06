@@ -37,6 +37,6 @@ https://disk.yandex.ru/d/catxZbkCPifVag
 Группы 3, 4 - 22 мая
 <br>Группы 5, 6 - 29 мая
 ####  Защита  с опозданием:
-5 июня - для всех групп
+5 июня
 
 https://www.markdownguide.org/basic-syntax
