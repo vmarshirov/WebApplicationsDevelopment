@@ -30,6 +30,10 @@
 
 Видео на https://disk.yandex.ru/d/pWLFnb5xtd2HqA 
 
+В settings.py
+
+Исправить строку на  ALLOWED_HOSTS = ["*"]
+
 #### Возможно будет полезно (Привязываем доменное имя)
 https://disk.yandex.ru/d/catxZbkCPifVag
 
