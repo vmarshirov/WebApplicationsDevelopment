@@ -13,9 +13,6 @@
 #### Требования к контрольной 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
 
 #### Пересдачи
-<!-->
 2025-09-18
-
 Евстигнеева Василиса 7
-<-->
 
