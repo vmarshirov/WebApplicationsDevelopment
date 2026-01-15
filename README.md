@@ -1,14 +1,8 @@
 ### Начальная страница дисциплины "Разработка web-приложний"
 
-#### Ссылка:
-на странице: https://github.com/vmarshirov
-<br>Если ссылка на сработала, или я Вас не слышу - позвоните 908 160 5316</b>
-<br><br>Ссылка может  меняться при каждом новом сеансе и при разрыве связи. 
-<br>Для надежного обновления страницы: CTRL+F5
 
 #### Внимание
 Перед начало установки Django настоятельно рекомендую переустановить Pytnon по рекомендациям в https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/files
-
 
 
 #### Подсказки и примеры по Django: https://github.com/vmarshirov/django010Project
@@ -19,8 +13,9 @@
 #### Требования к контрольной 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
 
 #### Пересдачи
+<!-->
 2025-09-18
 
 Евстигнеева Василиса 7
-
+<-->
 
