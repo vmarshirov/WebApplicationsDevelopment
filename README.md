@@ -7,7 +7,10 @@
 
 #### Подсказки и примеры по Django: https://github.com/vmarshirov/django010Project
 
-#### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.yandex.ru/d/-8T0TPDprrAQNA
+#### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.360.yandex.ru/d/hAXT1OrvvKunwg
+
+#### Записи Телемоста https://disk.360.yandex.ru/d/cluWG5Uxq11Kqg
+
 #### Требования к контрольной 1: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task1
 
 #### Требования к контрольной 2: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task2
