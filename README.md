@@ -5,9 +5,11 @@
 Перед начало установки Django настоятельно рекомендую переустановить Pytnon по рекомендациям в https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/files
 
 
-#### Подсказки и примеры по Django: https://github.com/vmarshirov/django010Project
+#### 2026 Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.360.yandex.ru/d/hAXT1OrvvKunwg
 
-#### Рабочая ведомость, видео, сжатые архивы и др. на: https://disk.360.yandex.ru/d/hAXT1OrvvKunwg
+
+#### Подсказки и примеры по Django : https://github.com/vmarshirov/django010Project
+
 
 #### Записи Телемоста https://disk.360.yandex.ru/d/cluWG5Uxq11Kqg
 
