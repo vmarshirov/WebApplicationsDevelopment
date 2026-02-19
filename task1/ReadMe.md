@@ -12,10 +12,14 @@
 8.	Страницу для решения и представления алгоритмической  задачи см.
     <br>https://disk.360.yandex.ru/d/hAXT1OrvvKunwg -  определить свой номер в ведомости
     <br>https://github.com/evshadrina/WebApplications_2026 - содержание задачи по ее номеру
- 	<br><br>Страницу для решения и представления алгоритмической  задачи (не обязаательно, но дается или вычитается один балл) см.
-    <br>https://disk.360.yandex.ru/d/hAXT1OrvvKunwg -  определить свой номер в ведомости)
-    <br>https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt - содержание задачи по ее номеру   
+ 	<!--
+  	<br><br>Страницу для решения и представления алгоритмической  задачи см.
+  	<br>https://disk.360.yandex.ru/d/hAXT1OrvvKunwg -  определить свой номер в ведомости)
+    <br>https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/task_list.txt - содержание задачи по ее номеру
+  	-->  
 9.	Страницу о образовательной программе с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt
+
+Дополнительно один балл за запрос, который обеспечивает автоматическое создание всего проекта 
 
 
 #### Даты защит контрольной работы 1: <br> 2026-03-18 - группы 3, 4; <br> 2026-03-26 группы 5, 6 <br>Рекомендую  досрочно
