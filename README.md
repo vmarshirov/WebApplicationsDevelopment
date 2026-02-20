@@ -11,7 +11,6 @@
 #### Подсказки и примеры по Django : https://github.com/vmarshirov/django010Project
 
 
-#### Записи Телемоста https://disk.360.yandex.ru/d/cluWG5Uxq11Kqg
 
 #### Требования к контрольной 1: https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/task1
 
