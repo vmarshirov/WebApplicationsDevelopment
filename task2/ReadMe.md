@@ -35,9 +35,9 @@
 https://disk.yandex.ru/d/catxZbkCPifVag
 
 #### Защита в срок (рекомендую  досрочно):
-Группы 3, 4 - 22 мая
-<br>Группы 5, 6 - 29 мая
+Группы 3, 4 - 
+<br>Группы 5, 6 - 
 ####  Защита  с опозданием:
-5 июня
+
 
 https://www.markdownguide.org/basic-syntax
